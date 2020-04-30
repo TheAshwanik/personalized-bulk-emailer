@@ -27,6 +27,4 @@ Salutation will be appended by the emailer.rb program.
     * Iterates over the list of email addresses in google.csv
     * For each email address, gives options for some canned Salutations. Users can choose the canned ones or choose to enter a custom salutation for this email id.
 
-A Sample interaction with the script is shown below:
 
-![alt text](https://github.com/shivampatel/personalized-bulk-emailer/raw/master/screenshot.png "Sample interation with this script 1")
